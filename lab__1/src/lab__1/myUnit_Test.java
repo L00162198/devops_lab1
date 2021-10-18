@@ -1,7 +1,7 @@
 package lab__1;
 
 import org.junit.Test;
-
+import static org.junit.
 
 public class myUnit_Test {
 
