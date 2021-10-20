@@ -7,7 +7,7 @@ public class unit {
 	
 	{
 		
-		return one + two;
+		return one + three;
 		
 	}
 
